@@ -1,0 +1,3 @@
+reverse_proxy:
+  - path: /target
+    url: http://localhost:8001/target
