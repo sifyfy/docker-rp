@@ -2,6 +2,7 @@
 name = "generate-simple-reverse-proxy-conf-to-nginx"
 version = "0.1.0"
 authors = ["sifyfy <siphilia.rn@gmail.com>"]
+license = "MIT OR Apache-2.0"
 edition = "2018"
 
 [dependencies]
